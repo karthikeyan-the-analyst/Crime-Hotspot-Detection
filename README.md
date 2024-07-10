@@ -24,6 +24,8 @@ Pandas: For data manipulation and analysis.
 
 Scikit-learn: For implementing machine learning models.
 
+Matplotlib: Matplotlib is a Python library used for creating static, interactive, and animated visualizations in a variety of formats.
+
 # Key Metrics
 
 Training Accuracy: The proportion of correct predictions made by the model on the training dataset.
