@@ -4,7 +4,7 @@ Excited to Share My Capstone Project: Crime Hotspot Detection
 
 I am thrilled to share my recent capstone project, "Crime Hotspot Detection," completed in Los Angeles, spanning from 2020 to 2024. This project leverages advanced machine learning techniques to enhance public safety by identifying crime hotspots.
 
-Project and Objective
+# Project and Objective 
 
 Project Title: Crime Hotspot Detection
 
@@ -12,7 +12,7 @@ Objective:
 
 The objective of this project was to develop a machine learning model that accurately identifies crime hotspots in Los Angeles. Utilizing LAPD crime data, the model provides actionable insights to enable targeted security recommendations in high-risk areas, contributing to a safer community.
 
-Tools Used
+# Tools Used
 
 Jupyter Notebook: For developing and running the code.
 
@@ -24,7 +24,7 @@ Pandas: For data manipulation and analysis.
 
 Scikit-learn: For implementing machine learning models.
 
-Key Metrics
+# Key Metrics
 
 Training Accuracy: The proportion of correct predictions made by the model on the training dataset.
 
@@ -32,7 +32,7 @@ Test Accuracy: The proportion of correct predictions made by the model on the un
 
 Cross-Validation Score: The average performance metric across multiple training and validation splits, ensuring the model's robustness and generalizability.
 
-Conclusion
+# Conclusion
 
 In this project, I employed two predictive models: Logistic Regression and Random Forest Classifier. After rigorous testing and tuning, including hyperparameter tuning with Grid Search CV, Logistic Regression emerged as the best-performing model. The final model demonstrated robustness and reliability, achieving balanced performance across accuracy, precision, recall, and F1 scores. This makes it a suitable choice for handling class imbalance and delivering effective predictions for our dataset.
 
